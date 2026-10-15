@@ -96,3 +96,7 @@ The app can drive itself for visual checks:
 DISKSEER_SCAN=~ DISKSEER_SNAPSHOTS=overview,explorer,smartClean DISKSEER_SNAPSHOT_DIR=/tmp/shots \
 DISKSEER_EXIT=1 dist/DiskSeer.app/Contents/MacOS/DiskSeer
 ```
+
+## License
+
+MIT — see [LICENSE](LICENSE).
